@@ -1,11 +1,20 @@
 <div align="center">
   
-  <!-- Profile Header with Dynamic Background -->
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Hi%20Folks%20👋&fontSize=50&fontColor=FFFFFF&animation=fadeIn)
-  
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/mrofisr)
-  [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/mrofisr_)
-  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/mrofisr)
+  <!-- Profile Header -->
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Welcome!🚀&fontSize=45&fontColor=FFFFFF&animation=fadeIn)
+
+  <!-- WakaTime & Visitor Counter -->
+  <p align="center">
+    <a href="https://wakatime.com/@f141defe-4ab4-412a-9268-a99cc646a38f">
+      <img src="https://wakatime.com/badge/user/f141defe-4ab4-412a-9268-a99cc646a38f.svg" alt="WakaTime Badge">
+    </a>
+  </p>
+
+  <!-- Tech Stack -->
+  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+  ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+  ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
 </div>
 
@@ -13,6 +22,6 @@
 
 <div align="center">
   
-  ### "Keep Learning and Growing! 🚀"
+  ### "Keep Learning, Keep Building, Keep Growing! 🚀"
   
 </div>
