@@ -1,7 +1,7 @@
 <div align="center">
   
   <!-- Profile Header -->
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=400&section=header&text=Welcome!🚀&fontSize=45&fontColor=FFFFFF&animation=fadeIn)
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=300&section=header&text=Welcome!🚀&fontSize=45&fontColor=FFFFFF&animation=fadeIn)
 
   <!-- WakaTime & Visitor Counter -->
   <p align="center">
