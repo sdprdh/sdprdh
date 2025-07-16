@@ -5,23 +5,4 @@ I focus on building clean, maintainable, and efficient web applications.
 
 ## Tech Stack
 
-**Frontend**
-- React
-- Next.js
-- JavaScript
-- TypeScript
-
-**Backend**
-- Node.js
-- Express.js
-
-**Database**
-- MongoDB
-- PostgreSQL
-- Prisma
-
-**Tools**
-- Git
-- VS Code
-- Vercel
-- Chat GPT
+React, Next.js, JavaScript, TypeScript, Node.js, Express.js, MongoDB, PostgreSQL, Prisma, Git, VS Code, Vercel
